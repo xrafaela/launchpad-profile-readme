@@ -1,23 +1,27 @@
-<!-- 
-  <<< Author notes: Header of the course >>> 
-  Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
-  In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
-  Add your open source license, GitHub uses Creative Commons Attribution 4.0 International.
--->
+# Rafaela Rodrigues (@xrafaela)  
+🎓 Sou estudante de Engenharia Informárica, membro do Student Developer Pack desde setembro de 2025  
+💻 Apaixonada por tecnologia, programação e aprendizado contínuo
 
-# Launchpad: Profile README
+## Sobre mim
+- Estudando desenvolvimento web, operações de desenvolvedor (DevOps) e ciência de dados
+- Explorando projetos open source e colaborando com estudantes ao redor do mundo
+- Usando GitHub Copilot para acelerar o aprendizado de IA e automação
 
-_Say hello to your community._
+## Repositórios em destaque
+- [skills-copilot-codespaces-vscode](https://github.com/xrafaela/skills-copilot-codespaces-vscode)
+- [LSSW](https://github.com/xrafaela/LSSW)
+- [RafaelaRodrigues](https://github.com/xrafaela/RafaelaRodrigues)
 
+## Curiosidades
+- Gosto de eventos online e compartilhar conhecimento
+- Buscando sempre explorar novas ferramentas e plataformas
 
-<!-- 
-  <<< Author notes: Start of the course >>> 
-  Include start button, a note about Actions minutes,
-  and tell the learner why they should take the course.
-  Each step should be wrapped in <details>/<summary>, with an `id` set.
-  The start <details> should have `open` as well.
-  Do not use quotes on the <details> tag attributes.
--->
+## Entre em contato
+- [LinkedIn](#) | [Twitter](#)
+
+---
+
+⭐️ Seja bem-vindo(a) ao meu GitHub!
 
 <details id=0 open>
 <summary><h2>Welcome</h2></summary>
